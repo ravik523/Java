@@ -30,7 +30,7 @@ public class demo1 implements Interface {
 
 	public static void main(String[] args){
 		demo1 obj= new demo1();
-		int a,b,c;
+		int a,b,c,d;
 		Scanner input= new Scanner(System.in);
 		System.out.println("Enter numbers: ");
 		a=input.nextInt();
